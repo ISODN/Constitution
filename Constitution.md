@@ -10,8 +10,6 @@ As a network, we aim to facilitate the sharing and exchange of resources between
 ## Voting Procedure
 Votes will be posted in #com-voting. Each committee member will vote either with a thumbs up, shrug, or thumbs down. Votes may be submitted anonymously via ISODN bot. After 72 hours the vote passes if the sum of the votes is positive. In the case of a tie, the committee chair breaks the tie.
 
-In the event that a vote passes the majority threshold (i.e. a vote cannot fail even if all remaining voters vote against), then a vote may be passed early.
-
 Committee members can react with a speech bubble if they think the vote should be modified or there should be some further discussion. All committee members should vote on all votes.
 
 ## Prospective Member Servers
@@ -44,7 +42,7 @@ All staff (admins and moderators) on member servers will be given the Admin or M
 
 ## ISODN Committee Positions
 All positions will be elected by anonymous vote once per year on July 1st, by a single transferable vote system. The following are a list of the positions and their roles and responsibilities.
-- **Chair**   The chair represents and organises the committee, ensuring that everything is running smoothly and that all members are treated fairly. The chair owns the ISODN Server, as well as the ISODN Gmail account and the previous chair must pass theseserver ownerships to the new chair. The Chair may break tied votes if necessary, but has no veto power.
+- **Chair**   The chair represents and organises the committee, ensuring that everything is running smoothly and that all members are treated fairly. The chair owns the ISODN Server, and the previous chair must pass server ownership to the new chair. The Chair may break tied votes if necessary, but has no veto power.
 
 ## Losing Network Membership
 A server can choose to drop out of the network. A server can also be voted out if there is dissatisfaction with the server.
