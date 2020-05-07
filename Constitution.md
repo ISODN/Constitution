@@ -42,7 +42,7 @@ All staff (admins and moderators) on member servers will be given the Admin or M
 
 ## ISODN Committee Positions
 All positions will be elected by anonymous vote once per year on July 1st, by a single transferable vote system. The following are a list of the positions and their roles and responsibilities.
-- **Chair**   The chair represents and organises the committee, ensuring that everything is running smoothly and that all members are treated fairly. The chair owns the ISODN Server, and the previous chair must pass server ownership to the new chair. The Chair may break tied votes if necessary, but has no veto power.
+- **Chair**   The chair represents and organises the committee, ensuring that everything is running smoothly and that all members are treated fairly. The chair owns the ISODN Server as well as the ISODN gmail account and the previous chair must pass these ownerships to the new chair. The Chair may break tied votes if necessary, but has no veto power.
 
 ## Losing Network Membership
 A server can choose to drop out of the network. A server can also be voted out if there is dissatisfaction with the server.
