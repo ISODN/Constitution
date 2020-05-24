@@ -10,7 +10,7 @@ As a network, we aim to facilitate the sharing and exchange of resources between
 ## Voting Procedure
 Votes will be posted in #com-voting. Each committee member will vote either with a thumbs up, shrug, or thumbs down. Votes may be submitted anonymously via ISODN bot. After 72 hours the vote passes if the sum of the votes is positive. In the case of a tie, the committee chair breaks the tie.
 
-If a vote attains 2/3 majority before 3 days are up, then the vote may be passed instantly. 
+If a vote attains 2/3 majority before 3 days are up (not counting abstentions), then the vote may be passed instantly. 
 
 Committee members can react with a speech bubble if they think the vote should be modified or there should be some further discussion. All committee members should vote on all votes.
 
