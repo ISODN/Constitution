@@ -1,6 +1,6 @@
 # Constitution
 #### of the International Science Olympiads Discord Network
-Version 1.2. Last updated Friday, 20 April 2020.
+Version 1.5. Last updated Monday, 25 May 2020.
 
 ## Aims of the Network
 This network unites several Discord Servers which have similar goals: that of bringing together students from all across the globe who are interested in one or more of the International Science Olympiads to a platform where they can meet, learn and socialise with other like-minded individuals.
