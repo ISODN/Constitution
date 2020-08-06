@@ -1,6 +1,6 @@
 # Constitution
 #### of the International Science Olympiads Discord Network
-Version 1.5. Last updated Monday, 25 May 2020.
+Version 1.6. Last updated Thursday, 6 August 2020.
 
 ## Aims of the Network
 This network unites several Discord Servers which have similar goals: that of bringing together students from all across the globe who are interested in one or more of the International Science Olympiads to a platform where they can meet, learn and socialise with other like-minded individuals.
@@ -43,8 +43,8 @@ All committee members must provide a valid Gmail so they can access the shared G
 All staff (admins and moderators) on member servers will be given the Admin or Mod role on ISODN, and will be allowed to view #com-announcements, #com-chat, and the voice chat com-munication.
 
 ## ISODN Committee Positions
-All positions will be elected by anonymous vote once per year on July 1st, by a single transferable vote system. The following are a list of the positions and their roles and responsibilities.
-- **Chair**   The chair represents and organises the committee, ensuring that everything is running smoothly and that all members are treated fairly. The chair owns the ISODN Server as well as the ISODN gmail account and the previous chair must pass these ownerships to the new chair. The Chair may break tied votes if necessary, but has no veto power.
+All positions will be elected by anonymous vote once every 6 months on Jul 1st and Jan 1st, by a single transferable vote system. The following are a list of the positions and their roles and responsibilities.
+- **Chair**   The chair represents and organises the committee, ensuring that everything is running smoothly and that all members are treated fairly. The chair owns the ISODN Server as well as the ISODN gmail account and the previous chair must pass these ownerships to the new chair. The Chair may break tied votes if necessary, but has no veto power. No person can be chair for two terms in a row, and no server can have 3 chairs in a 4 term period. 
 
 ## Losing Network Membership
 A server can choose to drop out of the network. A server can also be voted out if there is dissatisfaction with the server.
