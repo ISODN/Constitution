@@ -15,7 +15,7 @@ The vote may be finalised before the end of 3 days if at any point in time the n
 Committee members can react with a speech bubble if they think the vote should be modified or there should be some further discussion. All committee members should vote on all votes.
 
 ## Prospective Member Servers
-- **Requirements**   Should have at least 150 members, not including bots. Server structure and events should adhere to the guidelines below as closely as possible. Our network will only include one server for each Olympiad.
+- **Requirements**   Should have at least 90 members, not including bots. Server structure and events should adhere to the guidelines below as closely as possible. Our network will only include one server for each Olympiad.
 - **Procedure**   A vote will be taken as normal, except that the server must attain a 3/4 majority.
 - **Upon acceptance**   Add server to portal. Make an announcement in every member server. Start a new dedicated page on the shared website. Server owner to be added to ISODN Committee, and to nominate other staff members from their server for vote.
 - **Upon rejection**   If the rejection is due to them not following guidelines, then provide the prospective server with a rationale for their rejection. In any case, provide them with the exact number of votes for each option. 
@@ -25,6 +25,7 @@ Each server will have the following number of seats in the committee:
 
 | Verified Members | Seats |
 |------------------|-------|
+| 90+              | 1     |
 | 150+             | 2     |
 | 500+             | 3     |
 | 1500+            | 4     |
